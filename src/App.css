@@ -1,0 +1,24 @@
+.location {
+  background-image: url('../public/icons/location.svg');
+}
+
+.about {
+  background-image: url('../public/icons/about.svg');
+}
+
+.services {
+  background-image: url('../public/icons/services.svg');
+}
+
+.contacts {
+  background-image: url('../public/icons/contacts.svg');
+}
+
+.price {
+  background-image: url('../public/icons/price.svg');
+}
+
+.dot {
+  list-style-image: url('../public/icons/dot.svg');
+  list-style-position: inside;
+}
